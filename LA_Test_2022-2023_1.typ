@@ -1,4 +1,4 @@
-#import "test_template.typ": *
+    #import "test_template.typ": *
 #import "../typst-sympy-calculator.typ": *
 #let title = "КР 1. 2022/2023 учебный год. Вариант 1"
 #let author = "Морфей"
