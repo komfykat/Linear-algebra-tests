@@ -93,11 +93,11 @@ exists a, b, c: forall x #h(0.2cm) cos^2 x = a sin x + b (2 cos x) + c sin 2x
 $
 Подставим $x = 0$:
 $
-1 = 0 + 2 b + 0 => b = -1/2
+1 = 0 + 2 b + 0 => b = 1/2
 $
 Подставим $x = pi$:
 $
-1 = 0 - 2b + 0 => b = 1/2 != -1/2
+1 = 0 - 2b + 0 => b = -1/2 != 1/2
 $
 Противоречие. Значит, $cos^2 x in.not linspan(sin x, 2 cos x, sin 2 x)$.
 ]
