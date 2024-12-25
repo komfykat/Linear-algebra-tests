@@ -78,7 +78,7 @@ $
 {sqrt(2) (cos (-pi/12 + (pi k)/2) + i sin (-pi/12 + (pi k)/2)) | k = 0, 1, 2, 3.},
 $
 $
-cos (11 pi)/12 + i sin (11 pi)/12
+sqrt(2) (cos (11 pi)/12 + i sin (11 pi)/12)
 $
 ]
 #pagebreak()
