@@ -1,6 +1,6 @@
 #import "../EXAM-1/exam_template.typ": *
 #import "../typst-sympy-calculator.typ": *
-#let title = "КР-2. 2023/2024 учебный год. Вариант 1"
+#let title = "КР-2. 2022/2023 учебный год. Вариант 1"
 #let author = "Морфей"
 #let course = "Линейная алгебра и геометрия"
 #let group = "Группа БЭАД242"
@@ -588,4 +588,7 @@
   $
     rho(P, l) = sqrt(30) / sqrt(6) = sqrt(5)
   $
+]
+#answer[
+  $sqrt(5)$
 ]
